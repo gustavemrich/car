@@ -1,4 +1,4 @@
-
+#This code runs a localhost with the ssid and pass variable. On the website there are links you can click to turn servos, these servos are supposed to be connected to a car. One to a motor and one to the turning servo making it so you can control the car.
 // Include libraries
 #include <Servo.h>
 #include <WiFiS3.h>
